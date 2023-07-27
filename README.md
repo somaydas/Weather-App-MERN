@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/rahul9852-dot/mern-weather-app">
+    <a href="https://github.com/somaydas/mern-weather-app">
       Solution
     </a>
   </h3>
@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/rahul9852-dot/mern-weather-app/blob/master/client/src/assets/Fonts/weather.png)
+![screenshot](https://github.com/somaydas/mern-weather-app/blob/master/client/src/assets/Fonts/weather.png)
 
 ### Built With
 
