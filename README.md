@@ -2,9 +2,7 @@
 
 <h1 align="center">Weather ForeCast app</h1>
 
-<div align="center">
-   Solution for a Assignment from  <a href="#" target="_blank">simpluslabs</a>.
-</div>
+
 
 <div align="center">
   <h3>
@@ -22,7 +20,7 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
+
 - [Built With](#built-with)
 - [Frameworks](#Frameworks-and-Libraries-used)
 - [Features](#features)
@@ -30,11 +28,9 @@
 - [Contact](#contact)
 
 
-<!-- OVERVIEW -->
 
-## Overview
 
-![screenshot](https://github.com/somaydas/Weather-App-MERN/blob/master/client/src/assets/Fonts/weather.png)
+
 
 ### Built With
 
